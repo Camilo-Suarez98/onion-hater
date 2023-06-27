@@ -1,1 +1,62 @@
-# onion-hater
+# Make It Real Onion Hater NAME OF THE PROJECT
+
+This is a solution to the Onion Hater project of the Make It Real course.
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- Write in a textarea anything you want but, if you write 'cebolla' in upper or lower case then appears an alert saying "ODIO LA CEBOLLA"
+
+### Screenshot
+
+
+
+## My process
+
+### Built with
+
+- React + Vite
+- Javascript
+
+### What I learned
+
+I learn about the events on React and how i can get a value from an element, in this case i used an arrow function called handleChange
+
+```html
+<textarea onChange={handleChange} name="onion" id="text" cols="30" rows="10" />
+```
+```js
+const handleChange = (e) => {
+  const text = e.target.value
+
+  if (text.toLowerCase().includes('cebolla')) {
+    alert('ODIO LA CEBOLLA')
+  }
+}
+```
+
+## Author
+
+- Website - [Camilo S](https://camilo-suarez98-github-io.vercel.app/)
+
+
+## Acknowledgments
+
+Thanks to Make It Real team to teach me about this and all about React
