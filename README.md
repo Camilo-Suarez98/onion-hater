@@ -10,8 +10,6 @@ This is a solution to the Onion Hater project of the Make It Real course.
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -26,7 +24,11 @@ Users should be able to:
 
 ### Screenshot
 
+<img width="503" alt="image" src="https://github.com/Camilo-Suarez98/onion-hater/assets/68169750/ee320ed4-2f2a-48b7-98a5-c189adbcb649">
 
+<img width="506" alt="image" src="https://github.com/Camilo-Suarez98/onion-hater/assets/68169750/60d1709f-4361-4d00-ad0a-3c5dab3a4ae4">
+
+<img width="480" alt="image" src="https://github.com/Camilo-Suarez98/onion-hater/assets/68169750/c932403f-54dc-4531-97d4-c54835dae9a3">
 
 ## My process
 
